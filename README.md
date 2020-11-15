@@ -21,7 +21,7 @@ Once vagrant session is up, you can verify your install using the "hello world" 
 
 ```sh
 vagrant ssh
-sudo /usr/share/doc/bpfcc-tools/examples/hello_world.py
+sudo python3 /usr/share/doc/bpfcc-tools/examples/hello_world.py
 ```
 
 In another terminal session
